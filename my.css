@@ -92,15 +92,15 @@ div #desktop-pic {
     border: none;
 }
 
-/* .leftform {
+.form {
     display: flex;
-    flex-direction: column;
+    /* justify-content: space-between; */
+    justify-content: center;
+    flex-wrap: 1;
+    /* align-content: space-between; */
+    /* flex-direction: row; */
+    /* flex-wrap: wrap; */
 }
-
-.rightform {
-    display: flex;
-    flex-direction: column;
-} */
 
 footer {
     background-color: #66bfbf;
